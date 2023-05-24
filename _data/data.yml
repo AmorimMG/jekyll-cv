@@ -12,45 +12,45 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Inglês - C2 Proeficient
-  - idiom: Português - Fluente
+  - idiom: English - C2 Proeficient
+  - idiom: Portuguese - Fluent
 
 education:
-  - degree: Engenharia de Software
+  - degree: Software Engineering
     time: 2023-2026
     university: FIAP
 
-  - degree: Engenharia da Computação
+  - degree: Computer Engineering
     time: 2020-2022
     university: PUC MINAS
 
-  - degree: Formação Técnica T.I
+  - degree: Technical School
     time: 2018-2019
     university: Colégio Cotemig
 
 skills:
-  - category: Habilidades Back-end
+  - category: Back-end Skills
     skill: 
-      - C# - Básico
-      - C - Básico
-      - PHP - Básico
-      - Python - Básico
-  - category: Habilidades Front-end
+      - C# - Basic
+      - C - Basic
+      - PHP - Basic
+      - Python - Basic
+  - category: Front-end Skills
     skill:
-      - Vue - Básico
-      - CSS - Intermédiario
-      - Javascript - Intermédiario
-      - Typescript - Intermédiario
-      - React - Intermédiario
-      - Angular - Intermédiario
-      - HTML - Avançado
+      - Vue - Basic
+      - CSS - Intermediary
+      - Javascript - Intermediary
+      - Typescript - Intermediary
+      - React - Intermediary
+      - Angular - Intermediary
+      - HTML - advanced
   - category: Soft Skills
     skill:
-      - Versionamento
+      - Versioning
       - Pair Programming
-      - Métodologias Agéis
+      - Agile Methodologies
       - Azure Boards (Kanban)
-  - category: Habilidades Extras
+  - category: Extra Skills
     skill:
       - Figma
       - Git
@@ -61,67 +61,68 @@ skills:
       - MongoDB
 # Profile
 profile: |
-  Olá, sou Gabriel Amorim, um profissional com vasta experiência em desenvolvimento de software e tecnologia da informação. 
-  Tenho habilidades em diversas linguagens de programação e frameworks. 
-  Além disso, sou apaixonado por aprender novas tecnologias e aplicá-las para resolver problemas complexos. 
-  Com uma abordagem ágil e colaborativa, sou capaz de trabalhar em equipe de forma eficiente. 
-  Se você está procurando um desenvolvedor com habilidades técnicas e uma mentalidade inovadora, estou à disposição para discutir oportunidades de colaboração.
+  Hello, I'm Gabriel Amorim, a professional with extensive experience in software development and information technology.
+  I have skills in several programming languages ​​and frameworks.
+  Furthermore, I am passionate about learning new technologies and applying them to solve complex problems.
+  With an agile and collaborative approach, I am able to work efficiently in a team.
+  If you're looking for a developer with technical skills and an innovative mindset, I'm available to discuss collaboration opportunities.
 
 # Experience
 experience:
-  - role: Desenvolvedor Fullstack 
-    time: 2021-Atual
+  - role: Fullstack Developer
+    time: 2021-Current
     company: Meta3 Services & Technologies
     details: |
-      Faço parte de projetos internos e externos e atuo no desenvolvimento em todas as aréas conforme sejam necessarias (DevOps, Back-End e Front-end).
+I am part of internal and external projects and I work in development in all areas as needed (DevOps, Back-End and Front-end).
     technologies_used: | 
       C#, Javascript, Typescript, Angular, React, SQL Server, Figma
   
-  - role: Desenvolvedor Web PHP
+  - role: Web Developer PHP
     time: 2019-2019
     company: Contabilidade Amorim
     details: |
-      Realizei o planejamento e desenvolvimento do site da contabilidade, utilizando
-      PHP como backend e HTML e CSS como frontend.
+      I carried out the planning and development of the accounting website, using
+      PHP as backend and HTML and CSS as frontend.
     technologies_used: | 
       CSS, HTML, PHP
 
 projects:
-  - title: BV Comissões
+  - title: BV Commissions
     link: #
     details: |
-      Conversão de um projeto feito em VB6 para Angular e Java do Banco Votorantim (Banco BV), 
-      O sistema Comissão Loja é responsável por centralizar os pagamentos de comissões, também conhecido como retorno do lojista. 
-      Ele recebe valores através de procedimentos de Acordos comerciais de consignado.
+      Conversion of a project made in VB6 to Angular and Java from Bank Votorantim (Bank BV),
+      The Loja Commission system is responsible for centralizing commission payments, also known as merchant returns.
+      He receives values ​​through procedures of commercial consignment agreements.
+
     technologies_used: | 
       Angular, Typescript, JavaScript, SCSS, Figma
 
   - title: Meta3TD
     link: #
     details: |
-      Meta3TD é um sistema de conversão de código que lê e analiza códigos, para produzir CRUD's de forma automatica no front-end de um sistema.
+      Meta3TD is a code conversion system that reads and analyzes codes to automatically produce CRUD's in the front-end of a system.
     technologies_used: | 
       C#, Typescript, React, SQL Server
 
-  - title: Servidor
+  - title: Linux Server
     link: #
     details: |
-      Configurei todo o sistema do servidor da empresa em Linux e criei um sistema de publicação para todos os projetos, backup diário de todos os bancos e gerenciamento de acesso remoto para a equipe. Foi um trabalho desafiador, mas estou feliz em dizer que tudo foi feito com sucesso, aumentando a eficiência da empresa e protegendo nossos dados.
+      I set up the company's entire server system in Linux and created a publishing system for all projects, daily backup of all databases and remote access management for the team. It was challenging work, but I'm happy to say it was all done successfully, increasing the company's efficiency and protecting our data.
     technologies_used: | 
       Linux, Docker, Nginx, CronJobs, CockPit, IIS, Virtualbox
 
   - title: GM3
     link: #
     details: |
-      Projeto de gestão de colaboradores da empresa envolvendo sistemas de armazenamento de usuarios,
-      apontamento, férias, envio e recebimento de contra-cheque, relatórios, certificações e contratação de pessoas.
+      Company employee management project involving user storage systems,
+      notes, vacations, sending and receiving paychecks, reports, certifications and hiring people.
     technologies_used: | 
       C#, Typescript, React, SQL Server
 
-  - title: Controle de Ativos 
+  - title: Asset Control 
     link: #
     details: |
-      Sistema desenvolvido para gestão de todos os Ativos da empresa.
+      System developed to manage all the company's Assets.
     technologies_used: | 
       C#, ASP.NET, MVC e Entity Framework
 
